@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQ", "RabbitMQ", "{2D20B8F2-0F73-445B-AC0D-C86EC6D6F987}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Productor", "Productor", "{51CE7CDF-3429-4EBB-AA92-91EB8B9D7B14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppSent", "ConsoleAppSent\ConsoleAppSent.csproj", "{74260BE9-D850-43A4-B5EB-14C8EAC8F956}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{5AD0327F-6383-43FC-A124-B6218D0B64A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.Domain", "RabbitMq.Domain\RabbitMq.Domain.csproj", "{3088B742-1D7B-4048-8F1A-9C57537A5D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74260BE9-D850-43A4-B5EB-14C8EAC8F956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74260BE9-D850-43A4-B5EB-14C8EAC8F956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74260BE9-D850-43A4-B5EB-14C8EAC8F956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74260BE9-D850-43A4-B5EB-14C8EAC8F956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3088B742-1D7B-4048-8F1A-9C57537A5D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3088B742-1D7B-4048-8F1A-9C57537A5D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3088B742-1D7B-4048-8F1A-9C57537A5D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3088B742-1D7B-4048-8F1A-9C57537A5D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51CE7CDF-3429-4EBB-AA92-91EB8B9D7B14} = {2D20B8F2-0F73-445B-AC0D-C86EC6D6F987}
+		{74260BE9-D850-43A4-B5EB-14C8EAC8F956} = {51CE7CDF-3429-4EBB-AA92-91EB8B9D7B14}
+		{5AD0327F-6383-43FC-A124-B6218D0B64A8} = {2D20B8F2-0F73-445B-AC0D-C86EC6D6F987}
+		{3088B742-1D7B-4048-8F1A-9C57537A5D29} = {5AD0327F-6383-43FC-A124-B6218D0B64A8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65DDDF1D-7AC1-47A3-BE82-BBAFDC963AE1}
+	EndGlobalSection
+EndGlobal

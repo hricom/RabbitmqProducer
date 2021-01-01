@@ -1,0 +1,14 @@
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\bin\Debug\netcoreapp2.1\ConsoleAppSent.deps.json
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\bin\Debug\netcoreapp2.1\ConsoleAppSent.runtimeconfig.json
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\bin\Debug\netcoreapp2.1\ConsoleAppSent.runtimeconfig.dev.json
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\bin\Debug\netcoreapp2.1\ConsoleAppSent.dll
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\bin\Debug\netcoreapp2.1\ConsoleAppSent.pdb
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\bin\Debug\netcoreapp2.1\RabbitMq.Domain.dll
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\bin\Debug\netcoreapp2.1\RabbitMq.Domain.pdb
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\obj\Debug\netcoreapp2.1\ConsoleAppSent.csprojAssemblyReference.cache
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\obj\Debug\netcoreapp2.1\ConsoleAppSent.csproj.CoreCompileInputs.cache
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\obj\Debug\netcoreapp2.1\ConsoleAppSent.AssemblyInfoInputs.cache
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\obj\Debug\netcoreapp2.1\ConsoleAppSent.AssemblyInfo.cs
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\obj\Debug\netcoreapp2.1\ConsoleAppSent.csproj.CopyComplete
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\obj\Debug\netcoreapp2.1\ConsoleAppSent.dll
+D:\Usuarios\hrico\source\repos\HelloWorldRabbitMQ\ConsoleAppSent\obj\Debug\netcoreapp2.1\ConsoleAppSent.pdb
