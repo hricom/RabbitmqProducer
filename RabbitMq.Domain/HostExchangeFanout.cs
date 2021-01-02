@@ -20,7 +20,7 @@ namespace RabbitMq.Domain
                 // Create a ConnectionFactory and set the Uri to the CloudAMQP url
                 ConnectionFactory factory = new ConnectionFactory();
                 factory.ContinuationTimeout = new TimeSpan(10, 0, 0, 0);
-                factory.Uri = new Uri("amqps://dev:mmmmmmmmmmmmmmm@cloudamqp.com:5671/dev");
+                factory.Uri = new Uri("amqps://dev:mmmmmmmmmmmmmmm@url:5671/dev");
 
                 // Create a connection and open a channel, dispose them when done
                 using (IConnection connection = factory.CreateConnection())
